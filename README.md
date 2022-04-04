@@ -1,4 +1,4 @@
-# Understanding Activation Functions for Deep Neural Networks
+# Survey on recently proposed activation functions for Deep Learning
 Repo for storing content on my survey paper about Activation Functions on Deep Neural Networks.
 
 
