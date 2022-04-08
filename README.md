@@ -1,6 +1,10 @@
 # Survey on recently proposed activation functions for Deep Learning
 Repo for storing content on my survey paper about Activation Functions on Deep Neural Networks.
 
+### Publication link:
+- [A survey on activation functions for Deep Learning](https://arxiv.org/abs/2204.02921)
+
+
 
 ### Referenced papers
 | Paper PDF | Link to paper |
